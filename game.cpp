@@ -7,6 +7,7 @@ using namespace std;
 #else
     #include <unistd.h>
 #endif
+
 //---------Properitie---------//
 const int tailSize = 1000;
 int speed = 100;
